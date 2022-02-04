@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const config = require("config");
-const db = config.get("mongoURLLocal");
+const db = config.get("mongoURLAtlas");
 
 mongoose.Promise = global.Promise;
 
