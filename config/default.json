@@ -1,0 +1,4 @@
+{
+  "mongoURLAtlas": "mongodb+srv://Haymanot:hotelbooking@cluster0.grkza.mongodb.net/hotelDB?retryWrites=true&w=majority",
+  "mongoURLLocal": "mongodb://localhost/hotel"
+}
